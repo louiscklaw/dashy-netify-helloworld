@@ -6,7 +6,7 @@
   "author": "Alicia Sykes <alicia@omg.lol> (https://aliciasykes.com)",
   "scripts": {
     "start": "node server",
-    "dev": "vue-cli-service serve",
+    "dev": "cross-env PORT=3000 vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "pm2-start": "npx pm2 start server.js",
@@ -23,6 +23,7 @@
     "ajv": "^8.10.0",
     "axios": "^0.27.2",
     "connect-history-api-fallback": "^1.6.0",
+    "cross-env": "^7.0.3",
     "crypto-js": "^4.1.1",
     "express": "^4.17.2",
     "frappe-charts": "^1.6.2",
