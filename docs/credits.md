@@ -197,6 +197,13 @@
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/markusdd">
+            <img src="https://avatars.githubusercontent.com/u/25175069?v=4" width="80;" alt="markusdd"/>
+            <br />
+            <sub><b>Markus Krause</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/miclav">
             <img src="https://avatars.githubusercontent.com/u/11891522?v=4" width="80;" alt="miclav"/>
             <br />
@@ -208,13 +215,6 @@
             <img src="https://avatars.githubusercontent.com/u/61884717?v=4" width="80;" alt="PlusaN"/>
             <br />
             <sub><b>Andrey</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/PrynsTag">
-            <img src="https://avatars.githubusercontent.com/u/56314705?v=4" width="80;" alt="PrynsTag"/>
-            <br />
-            <sub><b>Prince Carl Velasco</b></sub>
         </a>
     </td></tr>
 </table>
